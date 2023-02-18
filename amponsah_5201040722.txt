@@ -97,7 +97,7 @@ Overall, RUP is a comprehensive and customizable process model that emphasizes i
 
 
 
-The key phases and activities involved in Rational Unified Process (RUP) are as follows:
+The key phases and activities involved in Rational Unified Process (RUP) are as follows
 
  1 Inception Phase: This is the first phase of the process, which focuses on defining the scope, objectives, and requirements of the project. Activities in this phase include project planning, requirements gathering, and feasibility analysis.
  
@@ -116,7 +116,7 @@ Benefits of using RUP in software development projects include:
  3 Flexibility: RUP is a customizable process model, which makes it flexible and adaptable to different project requirements.
  
  
-Drawbacks of using RUP in software development projects include:
+Drawbacks of using RUP in software development projects include
 
  1 Complexity: RUP is a comprehensive process model that can be complex and time-consuming to implement.
 
