@@ -2,7 +2,7 @@ Questions
 1. What is a software process model and why is it important in software development?
 
 
-A software process model is a standardized framework that guides the development of software from conception to delivery.
+A software process model is a standardised framework that guides the development of software from conception to delivery.
 
 It is a structured approach to software development that provides a roadmap for project managers, developers, and stakeholders to understand and manage the software development process.
 
@@ -81,7 +81,7 @@ what are the benefits and drawbacks of using this approach in software developme
 
 Rational Unified Process (RUP) is a software development process model that provides a structured and iterative approach to software development. It was developed by Rational Software Corporation, which is now a part of IBM. RUP is based on the Unified Modeling Language (UML) and is an extension of the Rational Object-Oriented Process (RooP).
 
-RUP is different from other software development process models in the following ways:
+RUP is different from other software development process model in the following ways:
 
  1 Iterative and Incremental: RUP is an iterative and incremental process that focuses on delivering working software at the end of each iteration. Each iteration goes through a series of phases, including inception, elaboration, construction, and transition.
  
